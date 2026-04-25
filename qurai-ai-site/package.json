@@ -1,5 +1,6 @@
 {
   "name": "qurai-ai-site",
+  "version": "1.0.1",
   "description": "QURAI.AI official website",
   "private": true,
   "scripts": {
