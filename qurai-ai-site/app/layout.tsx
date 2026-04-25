@@ -1,3 +1,10 @@
+import React from "react";
+
+export const metadata = {
+  title: "QURAI.AI",
+  description: "QURAI AI official site",
+};
+
 export default function RootLayout({
   children,
 }: {
