@@ -1,8 +1,0 @@
-export default function Page() {
-  return (
-    <main style={{ padding: "40px", fontFamily: "sans-serif" }}>
-      <h1>QURAI.AI</h1>
-      <p>Deployment Successful</p>
-    </main>
-  );
-}
