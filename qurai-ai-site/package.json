@@ -1,5 +1,6 @@
 {
   "name": "qurai-ai-site",
+  "description": "QURAI.AI official website",
   "private": true,
   "scripts": {
     "dev": "next dev",
